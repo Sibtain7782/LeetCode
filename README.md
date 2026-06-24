@@ -43,6 +43,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -51,4 +52,13 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
