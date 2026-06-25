@@ -6,6 +6,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sibtain7782/LeetCode/tree/master/0054-spiral-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -65,4 +66,12 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | ------- |
 | [0100-same-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0101-symmetric-tree) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sibtain7782/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sibtain7782/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
