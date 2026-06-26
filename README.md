@@ -7,6 +7,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sibtain7782/LeetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -60,6 +61,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -71,6 +73,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sibtain7782/LeetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -79,4 +82,12 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Sibtain7782/LeetCode/tree/master/0061-rotate-list) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
