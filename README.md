@@ -85,9 +85,18 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
