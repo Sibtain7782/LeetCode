@@ -8,6 +8,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sibtain7782/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -41,6 +42,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Tree
 |  |
@@ -74,6 +76,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sibtain7782/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
@@ -99,4 +102,12 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
