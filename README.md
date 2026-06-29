@@ -12,6 +12,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sibtain7782/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 | [1929-concatenation-of-array](https://github.com/Sibtain7782/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -21,6 +22,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,4 +125,5 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sibtain7782/LeetCode/tree/master/0029-divide-two-integers) |
+| [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
