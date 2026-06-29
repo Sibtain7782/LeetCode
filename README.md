@@ -39,6 +39,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sibtain7782/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Sibtain7782/LeetCode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Dynamic Programming
@@ -112,4 +113,8 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Sibtain7782/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
