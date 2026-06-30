@@ -11,6 +11,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sibtain7782/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sibtain7782/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sibtain7782/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -61,6 +62,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Sibtain7782/LeetCode/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sibtain7782/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
 |  |
 | ------- |
