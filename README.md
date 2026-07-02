@@ -54,12 +54,14 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sibtain7782/LeetCode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/Sibtain7782/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sibtain7782/LeetCode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sibtain7782/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sibtain7782/LeetCode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Sibtain7782/LeetCode/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -171,4 +173,8 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sibtain7782/LeetCode/tree/master/0214-shortest-palindrome) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sibtain7782/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
