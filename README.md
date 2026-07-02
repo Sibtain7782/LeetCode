@@ -111,6 +111,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Sibtain7782/LeetCode/tree/master/0087-scramble-string) |
+| [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sibtain7782/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -126,6 +128,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Stack
 |  |
 | ------- |
@@ -146,9 +149,18 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sibtain7782/LeetCode/tree/master/0029-divide-two-integers) |
+| [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sibtain7782/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
