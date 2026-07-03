@@ -67,6 +67,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0070-climbing-stairs](https://github.com/Sibtain7782/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Sibtain7782/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Sibtain7782/LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sibtain7782/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
@@ -119,6 +120,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Sibtain7782/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Sibtain7782/LeetCode/tree/master/0091-decode-ways) |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Sibtain7782/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Backtracking
