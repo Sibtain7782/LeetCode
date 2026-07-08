@@ -59,10 +59,12 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sibtain7782/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Sibtain7782/LeetCode/tree/master/0060-permutation-sequence) |
 ## Math
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sibtain7782/LeetCode/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/Sibtain7782/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Sibtain7782/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sibtain7782/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sibtain7782/LeetCode/tree/master/0070-climbing-stairs) |
