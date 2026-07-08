@@ -28,6 +28,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sibtain7782/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sibtain7782/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -39,6 +40,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sibtain7782/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -47,6 +49,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sibtain7782/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sibtain7782/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Sibtain7782/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Sibtain7782/LeetCode/tree/master/0086-partition-list) |
@@ -202,4 +205,8 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sibtain7782/LeetCode/tree/master/0070-climbing-stairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sibtain7782/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
