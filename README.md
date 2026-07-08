@@ -11,6 +11,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0059-spiral-matrix-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Sibtain7782/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sibtain7782/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sibtain7782/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -88,6 +89,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 ## Binary Search Tree
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
