@@ -93,6 +93,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sibtain7782/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -105,11 +106,13 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sibtain7782/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -121,6 +124,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | ------- |
 | [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sibtain7782/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
