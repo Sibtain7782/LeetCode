@@ -19,6 +19,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sibtain7782/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sibtain7782/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Sibtain7782/LeetCode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sibtain7782/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/Sibtain7782/LeetCode/tree/master/0636-exclusive-time-of-functions) |
@@ -37,6 +38,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Sibtain7782/LeetCode/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sibtain7782/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
@@ -182,6 +184,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sibtain7782/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/Sibtain7782/LeetCode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sibtain7782/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
