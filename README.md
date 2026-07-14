@@ -253,4 +253,8 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sibtain7782/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sibtain7782/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
