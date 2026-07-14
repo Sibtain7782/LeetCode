@@ -257,4 +257,5 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sibtain7782/LeetCode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Sibtain7782/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
