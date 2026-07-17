@@ -261,4 +261,5 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0177-nth-highest-salary](https://github.com/Sibtain7782/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Sibtain7782/LeetCode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sibtain7782/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Sibtain7782/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
