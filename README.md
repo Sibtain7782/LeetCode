@@ -268,4 +268,5 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0196-delete-duplicate-emails](https://github.com/Sibtain7782/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Sibtain7782/LeetCode/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Sibtain7782/LeetCode/tree/master/0262-trips-and-users) |
+| [0511-game-play-analysis-i](https://github.com/Sibtain7782/LeetCode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
