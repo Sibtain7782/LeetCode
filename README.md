@@ -82,6 +82,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0062-unique-paths](https://github.com/Sibtain7782/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sibtain7782/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sibtain7782/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Sibtain7782/LeetCode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sibtain7782/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -186,6 +187,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | ------- |
 | [0077-combinations](https://github.com/Sibtain7782/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Sibtain7782/LeetCode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Sibtain7782/LeetCode/tree/master/0093-restore-ip-addresses) |
 ## Hash Table
 |  |
@@ -227,6 +229,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sibtain7782/LeetCode/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Sibtain7782/LeetCode/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 ## Counting Sort
