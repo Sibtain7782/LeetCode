@@ -6,6 +6,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sibtain7782/LeetCode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Sibtain7782/LeetCode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Sibtain7782/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -192,6 +193,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sibtain7782/LeetCode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sibtain7782/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
