@@ -27,6 +27,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0218-the-skyline-problem](https://github.com/Sibtain7782/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sibtain7782/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
 | [0636-exclusive-time-of-functions](https://github.com/Sibtain7782/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Sibtain7782/LeetCode/tree/master/0739-daily-temperatures) |
@@ -78,6 +79,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0025-reverse-nodes-in-k-group](https://github.com/Sibtain7782/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Sibtain7782/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Sibtain7782/LeetCode/tree/master/0143-reorder-list) |
+| [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0096-unique-binary-search-trees](https://github.com/Sibtain7782/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sibtain7782/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +107,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0097-interleaving-string](https://github.com/Sibtain7782/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sibtain7782/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sibtain7782/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
 | ------- |
@@ -311,4 +315,8 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Sibtain7782/LeetCode/tree/master/0218-the-skyline-problem) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
