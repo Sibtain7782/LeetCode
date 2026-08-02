@@ -31,6 +31,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0636-exclusive-time-of-functions](https://github.com/Sibtain7782/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Sibtain7782/LeetCode/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sibtain7782/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sibtain7782/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/Sibtain7782/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -93,6 +94,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sibtain7782/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0115-distinct-subsequences](https://github.com/Sibtain7782/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sibtain7782/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
 ## Tree
 |  |
 | ------- |
@@ -319,4 +322,5 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
