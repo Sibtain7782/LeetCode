@@ -33,6 +33,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0739-daily-temperatures](https://github.com/Sibtain7782/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sibtain7782/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/Sibtain7782/LeetCode/tree/master/1406-stone-game-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sibtain7782/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/Sibtain7782/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -95,6 +96,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0227-basic-calculator-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sibtain7782/LeetCode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sibtain7782/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sibtain7782/LeetCode/tree/master/1406-stone-game-iii) |
 ## Tree
 |  |
 | ------- |
@@ -323,4 +326,5 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sibtain7782/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
