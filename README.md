@@ -163,6 +163,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sibtain7782/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sibtain7782/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sibtain7782/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [3310-remove-methods-from-project](https://github.com/Sibtain7782/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0101-symmetric-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0126-word-ladder-ii) |
+| [3310-remove-methods-from-project](https://github.com/Sibtain7782/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -330,4 +332,8 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Sibtain7782/LeetCode/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Sibtain7782/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
