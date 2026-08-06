@@ -99,6 +99,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Sibtain7782/LeetCode/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sibtain7782/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -336,4 +337,8 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Sibtain7782/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sibtain7782/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
