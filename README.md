@@ -72,6 +72,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0023-merge-k-sorted-lists](https://github.com/Sibtain7782/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sibtain7782/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Sibtain7782/LeetCode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sibtain7782/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Sibtain7782/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0092-reverse-linked-list-ii) |
@@ -195,6 +196,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sibtain7782/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Sibtain7782/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Sibtain7782/LeetCode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Sibtain7782/LeetCode/tree/master/0143-reorder-list) |
 ## String
