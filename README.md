@@ -220,6 +220,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0214-shortest-palindrome](https://github.com/Sibtain7782/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sibtain7782/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sibtain7782/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sibtain7782/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sibtain7782/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sibtain7782/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sibtain7782/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Sibtain7782/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -250,6 +252,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sibtain7782/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sibtain7782/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
