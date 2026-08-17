@@ -333,6 +333,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0262-trips-and-users](https://github.com/Sibtain7782/LeetCode/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/Sibtain7782/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Sibtain7782/LeetCode/tree/master/0550-game-play-analysis-iv) |
+| [0584-find-customer-referee](https://github.com/Sibtain7782/LeetCode/tree/master/0584-find-customer-referee) |
 ## Binary Indexed Tree
 |  |
 | ------- |
