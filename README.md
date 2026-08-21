@@ -337,6 +337,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0584-find-customer-referee](https://github.com/Sibtain7782/LeetCode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/Sibtain7782/LeetCode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Sibtain7782/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0601-human-traffic-of-stadium](https://github.com/Sibtain7782/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 ## Binary Indexed Tree
 |  |
 | ------- |
