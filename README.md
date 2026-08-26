@@ -24,6 +24,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0118-pascals-triangle](https://github.com/Sibtain7782/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sibtain7782/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sibtain7782/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sibtain7782/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sibtain7782/LeetCode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Sibtain7782/LeetCode/tree/master/0218-the-skyline-problem) |
@@ -156,6 +157,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0098-validate-binary-search-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sibtain7782/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sibtain7782/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -263,6 +265,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sibtain7782/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sibtain7782/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sibtain7782/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sibtain7782/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
@@ -405,4 +408,8 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Sibtain7782/LeetCode/tree/master/2029-stone-game-ix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sibtain7782/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
