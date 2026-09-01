@@ -240,6 +240,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Sibtain7782/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [1316-distinct-echo-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1316-distinct-echo-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sibtain7782/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sibtain7782/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
@@ -316,11 +317,13 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Sibtain7782/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1316-distinct-echo-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1316-distinct-echo-substrings) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Sibtain7782/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1316-distinct-echo-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1316-distinct-echo-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -428,4 +431,20 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sibtain7782/LeetCode/tree/master/0130-surrounded-regions) |
+## Trie
+|  |
+| ------- |
+| [1316-distinct-echo-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1316-distinct-echo-substrings) |
+## Suffix Array
+|  |
+| ------- |
+| [1316-distinct-echo-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1316-distinct-echo-substrings) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1316-distinct-echo-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1316-distinct-echo-substrings) |
+## Suffix Tree
+|  |
+| ------- |
+| [1316-distinct-echo-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1316-distinct-echo-substrings) |
 <!---LeetCode Topics End-->
