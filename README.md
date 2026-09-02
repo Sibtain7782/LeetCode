@@ -238,6 +238,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0115-distinct-subsequences](https://github.com/Sibtain7782/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Sibtain7782/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Sibtain7782/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [1316-distinct-echo-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1316-distinct-echo-substrings) |
@@ -261,6 +262,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sibtain7782/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Sibtain7782/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sibtain7782/LeetCode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
