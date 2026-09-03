@@ -135,6 +135,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0115-distinct-subsequences](https://github.com/Sibtain7782/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Sibtain7782/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sibtain7782/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0132-palindrome-partitioning-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Sibtain7782/LeetCode/tree/master/1406-stone-game-iii) |
@@ -237,6 +238,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0097-interleaving-string](https://github.com/Sibtain7782/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sibtain7782/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Sibtain7782/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Sibtain7782/LeetCode/tree/master/0214-shortest-palindrome) |
