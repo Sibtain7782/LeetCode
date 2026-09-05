@@ -47,6 +47,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sibtain7782/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sibtain7782/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sibtain7782/LeetCode/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/Sibtain7782/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -430,6 +431,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sibtain7782/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [3904-smallest-stable-index-ii](https://github.com/Sibtain7782/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Concurrency
 |  |
 | ------- |
