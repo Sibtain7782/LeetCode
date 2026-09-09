@@ -26,6 +26,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Sibtain7782/LeetCode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Sibtain7782/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sibtain7782/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sibtain7782/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sibtain7782/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -142,6 +143,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Sibtain7782/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/Sibtain7782/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Sibtain7782/LeetCode/tree/master/1406-stone-game-iii) |
@@ -246,6 +248,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0126-word-ladder-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Sibtain7782/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Sibtain7782/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Sibtain7782/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -263,6 +266,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0090-subsets-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Sibtain7782/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0140-word-break-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +276,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sibtain7782/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/Sibtain7782/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sibtain7782/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Sibtain7782/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sibtain7782/LeetCode/tree/master/0217-contains-duplicate) |
@@ -350,6 +355,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sibtain7782/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Sibtain7782/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0140-word-break-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -451,6 +457,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Sibtain7782/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0140-word-break-ii) |
 | [1316-distinct-echo-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1316-distinct-echo-substrings) |
 ## Suffix Array
 |  |
