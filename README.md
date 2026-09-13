@@ -38,6 +38,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0636-exclusive-time-of-functions](https://github.com/Sibtain7782/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Sibtain7782/LeetCode/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/Sibtain7782/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Sibtain7782/LeetCode/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sibtain7782/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Sibtain7782/LeetCode/tree/master/1406-stone-game-iii) |
@@ -226,6 +227,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0079-word-search](https://github.com/Sibtain7782/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sibtain7782/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Sibtain7782/LeetCode/tree/master/0130-surrounded-regions) |
+| [0835-image-overlap](https://github.com/Sibtain7782/LeetCode/tree/master/0835-image-overlap) |
 ## Simulation
 |  |
 | ------- |
