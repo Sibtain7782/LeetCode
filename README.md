@@ -71,6 +71,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0218-the-skyline-problem](https://github.com/Sibtain7782/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sibtain7782/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sibtain7782/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sibtain7782/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/Sibtain7782/LeetCode/tree/master/3731-find-missing-elements) |
@@ -271,6 +272,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0214-shortest-palindrome](https://github.com/Sibtain7782/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [1316-distinct-echo-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1316-distinct-echo-substrings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sibtain7782/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sibtain7782/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -301,6 +303,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0645-set-mismatch](https://github.com/Sibtain7782/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sibtain7782/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sibtain7782/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sibtain7782/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sibtain7782/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sibtain7782/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -461,6 +464,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/Sibtain7782/LeetCode/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
