@@ -242,6 +242,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0054-spiral-matrix](https://github.com/Sibtain7782/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/Sibtain7782/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sibtain7782/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,6 +277,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sibtain7782/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sibtain7782/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sibtain7782/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
