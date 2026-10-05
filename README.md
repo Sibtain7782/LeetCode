@@ -279,6 +279,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0214-shortest-palindrome](https://github.com/Sibtain7782/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Sibtain7782/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sibtain7782/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sibtain7782/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sibtain7782/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1316-distinct-echo-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1316-distinct-echo-substrings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sibtain7782/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -342,6 +343,7 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 | [0636-exclusive-time-of-functions](https://github.com/Sibtain7782/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Sibtain7782/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Sibtain7782/LeetCode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Sibtain7782/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sibtain7782/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sibtain7782/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -524,5 +526,6 @@ Consistently solving Data Structures and Algorithms problems on LeetCode. This r
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sibtain7782/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sibtain7782/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sibtain7782/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
